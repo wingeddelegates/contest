@@ -108,7 +108,7 @@ body {
 #hero {
     position: relative;
     z-index: 2;
-    min-height: 100vh;
+    min-height: 30vh;
     display: flex;
     justify-content: center;
     align-items: center;
